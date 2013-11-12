@@ -1,4 +1,4 @@
 Chrono
 ======
 
-C++/CLi testing
+C++/CLI testing
